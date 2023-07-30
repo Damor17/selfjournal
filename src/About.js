@@ -2,7 +2,7 @@ const About = () => {
     return (
         <main className="About">
             <h2> About</h2>
-            <p style ={{marginTop: '1rem'}}>This blog app is a project in a Learn React series from somewhere lolski
+            <p style ={{marginTop: '1rem'}}>Created this Diary Project to learn the fundementals of React. It's one of my very first projects using React and Axios.
             </p>
         </main>
     )
